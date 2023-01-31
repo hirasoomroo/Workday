@@ -1,4 +1,3 @@
-# workday
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
@@ -34,7 +33,7 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
+
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Grading Requirements
@@ -95,5 +94,6 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+https://github.com/hirasoomroo/workday
